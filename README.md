@@ -26,13 +26,9 @@ Before running the script, you should configure it to match your needs:
 
 1. Adjust the configuration parameters in the script as needed.
 2. Run the script:
-
-<pre>
 ```bash
 ./process_files.sh
 ```
-</pre>
-
 3. Monitor the progress as the script identifies, copies, and unzips files.
 
 ## Contributions
