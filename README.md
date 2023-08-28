@@ -10,7 +10,19 @@ A versatile script for searching, copying, and unzipping files based on specific
 
 ## Prerequisites
 
-- Ensure you have `parallel` and `unzip` installed on your system.
+Before using the script, ensure you have both `parallel` and `unzip` installed on your system. If not, you can install them using the following commands:
+
+### For Ubuntu/Debian-based systems:
+```bash
+sudo apt update
+sudo apt install parallel unzip
+```
+
+### For macOS (using Homebrew):
+```bash
+brew install parallel
+brew install unzip
+```
 
 ## Configuration
 
